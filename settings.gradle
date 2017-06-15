@@ -1,0 +1,6 @@
+rootProject.name = 'spring-boot-demo'
+include 'api-gateway'
+include 'service-discovery'
+include 'configuration-server'
+include 'authentication-server'
+
